@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 x = [1, 2, 3, 4, 5]
 y = [2, 3, 5, 7, 11]
 
-# dddd
+# ddd
 plt.plot(x, y)
 
 # 그래프 제목 및 축 레이블 추가
